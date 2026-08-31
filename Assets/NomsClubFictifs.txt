@@ -1,0 +1,916 @@
+Real Aragonia CF
+Olympique Marzella
+Sporting Nova Lisboa
+Northern Lions FC
+Dynamo Reichenstadt
+AC Monteverde
+Estrella Atlántica
+Union Ciel Bleu
+FK Dravoslav
+Coastal Rovers FC
+SC Bastiglia
+Deportivo Altamar
+FC Heliosport
+Red Harbour United
+Atletico Soria
+Racing Club Véloria
+Parisian Rangers FC
+Sturm Greifenberg
+Lusitania FC
+Valencia Montese CF
+Borussia Dunkelstadt
+Inter Montale
+FC Riviera
+Real Cordila CF
+Sporting Altezza
+Aurora United FC
+FC Nordheim
+Juventud de Miravera
+Celtic Valnor
+AC Varenna
+FK Novorod
+Stade Atlantique
+FC Alvorada
+Dynamo Cassenhofen
+Sporting Caelestis
+Union Catalana CF
+Kingston Eagles FC
+AS Bellecourt
+FC Solaris
+Atletico del Norte
+Estrela do Mar SC
+FC Saarbrück
+United of Westbridge
+Real Ventora CF
+CF Montablanca
+AC Bastinara
+Sporting Varedo
+FC Monclair
+Juventude Avenal
+FC Rosenthal
+Dynamo Larenko
+Borussia Altstadt
+FC Sierra Azul
+Real San Florent
+FC Costa Verde
+AC Ravello
+Deportivo Aragua
+Olympique de Montsart
+FC Hohenwald
+CF Estrella Norte
+SC Valmero
+Atlético Luzerna
+Dynamo Grossheim
+Vitoria do Sul
+FC Villecrest
+CF Palermo Sur
+Real Almedina
+FC Dürnstein
+Sporting Tressano
+FK Volnaya
+AS Rougemont
+FC Monte Riva
+Club de Fútbol Alvarado
+United Stadelbridge
+Borussia Hellendorf
+FC Azulina
+Real Verdalia CF
+AC Fiorenna
+Dynamo Elbersheim
+Estrella Roja SC
+Sporting de Bravura
+FC Calviero
+Real Porto Novo
+Northern Falcons FC
+FC Luneburg
+Stade du Levant
+Juventus Alpina
+Deportivo Castellón
+AC Serenzia
+Dynamo Kostovia
+FC Bravonne
+Real Castelmuro
+Sporting Lirona
+FC Goldhaven
+Union Spirito
+Borussia Waldsee
+AC Magliano
+Deportivo Las Nieves
+Real Donoria CF
+SC Kranzburg
+Atletico Farense
+FC Cielomare
+Luz FC
+Dynamo Dravenhof
+FC Mirabel
+Sporting Altina
+Real Nova Castela
+Malmö United
+CF Escudero
+AC Tempesta
+FK Norgrad
+Paris Union FC
+Deportivo Montoro
+Real Villanova CF
+FC Baviera
+AC Livignano
+Ajax Porto Vento
+Dynamo Stravinsk
+Sporting Yonara
+FC Rosemont
+Université SC
+Borussia Leuchten
+CF San Esteban
+Real Valderia
+Racing Club Loire
+FC Terranova
+Olympique Castellin
+Dynamo Freistadt
+SC Verona Sud
+AS Mornac
+FK Drahovac
+Real de los Andes
+FC Nova Era
+Sporting Quinzano
+Dynamo Barenshof
+CF Atlantico Norte
+AC Manilva
+Borussia Gravenfeld
+FC Montserrat
+Atlético Gran Sol
+FC Clairval
+United of Eastgate
+Juventus Dastra
+Real Dalmaria CF
+Sporting Kölnstadt
+FC Varenholm
+AC Portenza
+Dynamo Lichtenau
+CF El Dorado
+Valencia Nord CF
+Borussia Kellenberg
+Sporting Amarante
+FC Rosenfeld
+Real do Tejo
+FC Stromberg
+Deportivo San Lucas
+Atletico Runa
+SC Ventora
+Dynamo Norsheim
+FC Floranza
+Sporting de Cebra
+Real Minerva CF
+AC Piemontale
+CF Luarena
+Borussia Raufeld
+Union Celestia
+Olympique Lutrine
+FC Menorca Bay
+Dynamo Koprin
+Real Fontenara
+SC Althausen
+FC Verdelis
+CF Port Solano
+AC Bravienza
+Saint-Etang FC
+Dynamo Revalton
+Sporting Candelia
+Borussia Holtzheim
+FC Riviera Norte
+Atletico do Mar
+United of Highridge
+CF Los Puertos
+FC Glastenburg
+Dynamo Alvania
+Juventus di Mare
+Real Orsovia
+Sporting Rivano
+FC Kravitz
+Borussia Montserrat
+SC Lavanda
+Dynamo Kramersdorf
+FC Azul Alto
+Real do Porto CF
+AC Ravinia
+Sporting della Costa
+Dynamo Obersfeld
+FC Elmsborough
+CF Rocamar
+Borussia Arlingen
+FC Soleil Méridien
+AC Fioria
+Real Valmora CF
+Deportivo Zafiro Azul
+Juventus San Pietro
+FC Bleikerdorf
+Sporting Varinia
+Dynamo Brückental
+Real Palermo Verde
+FC Azulmar
+Borussia Kreutzbach
+AC Torenzia
+Sporting Luson
+CF Bellavista
+Dynamo Cardenhof
+FC Nova Vista
+Real Andoriano CF
+Union Mistralia
+Borussia Straden
+FC Esperanza
+SC Alto Mare
+Dynamo Castenhof
+Atlético Rivera
+CF Tres Lagos
+Real Verdanes CF
+FC Miramar
+Dynamo Noventhal
+FC Saint-Artois
+AC Morello
+Real Montarico CF
+FC Nordhaven
+Deportivo Castelluna
+AC Veronia
+Sporting Alto Brio
+Dynamo Wiltenburg
+Juventus Monteverde
+FC Almeria Nova
+Real Fiorense CF
+Borussia Tannenfeld
+Sporting Laranjeiras
+CF Campoverde
+United of Rowbury
+FC Azuliente
+Dynamo Rosenhof
+AC Bellanora
+Real Port Castilla
+Borussia Eschenwald
+CF Colverde
+Sporting Bonifacio
+FC Lumina
+Dynamo Schultzberg
+Atletico Serrano
+Real Verdona CF
+FC Dornstadt
+Juventus del Sol
+Sporting Rodella
+AC Maravento
+CF Azulmarino
+Dynamo Falckenhof
+Borussia Reinertal
+FC Océania
+Real Porto Fiero CF
+Sporting Alviero
+Dynamo Travenstein
+Juventus Alba Rossa
+CF Lagoa Azul
+FC Dornier
+Borussia Nordwald
+Real Montese CF
+Sporting de Ventura
+FC Cardenza
+Dynamo Helgenstadt
+AC Lirone
+Atletico Montoro
+Real Cadorra CF
+FC Stromano
+Borussia Steinheim
+Dynamo Portbergen
+Sporting Rosalia
+CF Vila Verde
+Real Amarante CF
+FC Donvier
+AC Lusciano
+Borussia Neuhoff
+Dynamo Castelo
+United of Bellridge
+Real Fioravia CF
+Sporting Toranza
+AC Aramaldi
+Deportivo Azulgrana
+FC Velturna
+Borussia Reinhold
+Dynamo Verlinden
+Real Costa Alta CF
+FC Renaud
+Sporting Caelestis
+AC Monteluce
+Juventus Portello
+FC Verde Mar
+Real Granvania CF
+Borussia Thalhofen
+Dynamo Osterfeld
+FC Belaria
+CF Bravura Azul
+Sporting Lissanda
+AC Praterna
+FC Margovia
+Real di Valpara CF
+Borussia Kleinsee
+Dynamo Estenhof
+Sporting Monte Rossa
+AC Fiorasco
+Real Caledonia CF
+FC Waldring
+CF Esplendida
+Dynamo Kronenberg
+Borussia Feldhausen
+Sporting Verde Claro
+AC Montavale
+Real Bastiglia CF
+FC Quinzano
+Dynamo Meerbeck
+CF Dourado
+Borussia Weissenbach
+Sporting Alencara
+FC Rosendale
+Real Amorina CF
+AC Castellis
+Dynamo Florenshof
+Borussia Lauterwald
+Sporting Torrebranca
+FC Nuvolis
+Dynamo Albrecht
+Real Prado Azul CF
+CF Sierra Dorada
+Borussia Hohenberg
+Sporting Ventora
+AC Tranessa
+FC Verdeaux
+Dynamo Westfeld
+Real Collina CF
+FC San Eloy
+Borussia Niederthal
+Sporting del Mar
+AC Rivadena
+FC Monterio
+Dynamo Kesseldorf
+Borussia Blauenwald
+CF Porto Sol
+Sporting Rivolis
+FC Marinara
+Real Klosterburg CF
+Dynamo Verdenhof
+AC Lavedo
+Borussia Siebenhof
+Sporting Castiglia
+FC Norsonia
+Dynamo Paolano
+CF Leonessa
+Borussia Altbruck
+Sporting Azul Forte
+FC Dornval
+Real Cavallino CF
+Dynamo Kraveldor
+AC Rialto
+Borussia Travenwald
+Sporting Monte Clara
+FC Dovonia
+Dynamo Ostenberg
+Real Fiorentina Nova
+CF Alzamara
+Borussia Tressor
+Sporting Estoril
+FC Belcourt
+Dynamo Murenhof
+Real Castorino CF
+AC Villanova
+Borussia Grunthal
+Sporting Bresonia
+FC Grauensee
+Dynamo Nelmar
+Real Montarena CF
+CF Azul Rey
+Borussia Lunefeld
+Sporting Costa Serena
+AC Albaterra
+FC Rivazur
+Dynamo Brandenhof
+Real Nova Torre CF
+Borussia Essenthal
+Sporting Amarilio
+FC Pelagis
+Dynamo Nordwald
+Real Bellavista CF
+CF Coralina
+Borussia Hallendorf
+Sporting Alvarina
+FC Rovigno
+Dynamo Elfsburg
+Real del Sur CF
+AC Montanesa
+Borussia Kranenburg
+Sporting Fiorese
+FC Sauvron
+Dynamo Barlenshof
+Real Verde Alto CF
+AC Lorenza
+Borussia Hohenfels
+Sporting Marzavia
+FC Rivonel
+Dynamo Travenhof
+Real Cielomar CF
+CF Arcobaleno
+Borussia Unterwald
+Sporting Bellemare
+AC Portello
+Dynamo Carvenhof
+Real Bravencio CF
+FC Sonnenthal
+Borussia Reichenstadt
+Sporting Mirabella
+FC Los Rios
+Dynamo Trevstadt
+Real Fiorada CF
+CF Golden Bay
+Borussia Lichtenau
+Sporting Campomar
+AC Dorentina
+FC Santorini
+Dynamo Koltenburg
+Real Azulgrano CF
+Borussia Zeiselhof
+Sporting Alto Verdor
+FC Marzenia
+Dynamo Holtenhof
+Real Caravel CF
+AC Fioralta
+Borussia Dornheim
+Sporting Verde Marinho
+CF Azul Cerrado
+Dynamo Berntal
+Real Castanera CF
+FC Montresor
+Borussia Valldorf
+Sporting Rivorado
+AC Celestino
+Dynamo Westenburg
+Real Lunaris CF
+CF Palma Norte
+Borussia Eisenhof
+Sporting Nova Italia
+FC paradiso
+Dynamo Eichenheim
+Real de Coral CF
+AC Rivaria
+Borussia Brunnthal
+Sporting Mareverde
+FC Bluemont
+Dynamo Scharfenberg
+Real Fiorante CF
+CF Bellagio
+Borussia Overfeld
+Sporting Alta Vista
+FC Nordano
+Dynamo Verdewald
+Real Castoluna CF
+FC Lunebridge
+Sporting Elmarino
+Dynamo Rothenberg
+AC Monte Cielo
+Borussia Klainstadt
+CF Nova Estrella
+FC Ondamara
+Real Fiorentina Azul
+Dynamo Waldfeld
+Sporting Caminora
+AC Braventino
+Borussia Felsenhof
+CF Marina Alta
+FC Verdeolmo
+Real Castellar CF
+Dynamo Haldenhof
+Sporting Costa Dourada
+AC Solentina
+Borussia Dornthal
+CF Montaverde
+FC Lago Verde
+Real Monte D’Oro CF
+Dynamo Kronfeld
+Sporting Nova Brisa
+AC Palliano
+Borussia Rosenthal
+CF Azul Puro
+FC Levantino
+Real Aurora CF
+Dynamo Brugenfeld
+Sporting Alta Vigna
+AC Cavallina
+Borussia Lauenhof
+CF Costa Serena
+FC Rivaria
+Real Montedor CF
+Dynamo Englenhof
+Sporting Maravella
+AC Castelmar
+Borussia Steinbach
+CF Vento do Sul
+FC Varsovia Norte
+Real Azul Real CF
+Dynamo Orlenhof
+Sporting Bella Rossa
+AC Ferentina
+Borussia Dornwald
+CF Valdastra
+FC Morlena
+Real Dorival CF
+Dynamo Bierenhof
+Sporting Mare Alto
+AC Castelverde
+Borussia Grünheim
+CF Bravino Azul
+FC Solmeria
+Real Portano CF
+Dynamo Nordhausen
+Sporting Luce Mare
+AC Fiorarno
+Borussia Alvenshof
+CF Campomar Azul
+FC Ventorria
+Real Primarosa CF
+Dynamo Rosenheim
+Sporting Verde Lirio
+AC Mirante
+Borussia Weldenhof
+CF Estrela Nova
+FC Costa Radiante
+Real Fiorador CF
+Dynamo Lichtenfeld
+Sporting Azul Claro
+AC Pioventa
+Borussia Eisenwald
+CF Porto Alto
+FC Damaris
+Real Verdejo CF
+Dynamo Blasenhof
+Sporting Bella Costa
+AC Monviero
+Borussia Kreutzheim
+CF Gran Sol
+FC Fioranda
+Real Marbello CF
+Dynamo Vorsheim
+Sporting Luz Serena
+AC Brinella
+Borussia Trevenhof
+CF Azul Verde
+FC Fiorano
+Real Ardentia CF
+Dynamo Klavenhof
+Sporting Nova Costa
+AC Rivonella
+Borussia Ehrenfeld
+CF Punta Azul
+FC Solevento
+Real Monteflor CF
+Dynamo Torvensdorf
+Sporting Bellezza
+AC Verdeva
+Borussia Rieselfeld
+CF Sol Dorado
+FC Marina Verde
+Real Fiorentino CF
+Dynamo Kreuzthal
+Sporting Alta Mar
+AC Belmonte
+Borussia Hafenberg
+CF Porto Azul
+FC Celestiana
+Real Rosinova CF
+Dynamo Breidenhof
+Sporting Vento Azul
+AC Sonnaria
+Borussia Ludenhof
+CF Mare Alto
+FC Azulino
+Real Castalva CF
+Dynamo Hohenheim
+Sporting Monte Verde
+AC Luviano
+Borussia Faulenhof
+CF Costa Fiora
+FC Verde Vita
+Real Primaterra CF
+Dynamo Ladenwald
+Sporting Alta Marinha
+AC Dornese
+Borussia Kempenhof
+CF Bravura Norte
+FC Montarella
+Real Fiori Bella CF
+Dynamo Kallendorf
+Sporting Marivella
+AC Ventoria
+Borussia Erlenhof
+CF Costa Bruna
+FC Rivonera
+Real Luce Mare CF
+Dynamo Westheim
+Sporting Costal Verde
+AC Marmolina
+Borussia Fahrenhof
+CF Azul Belo
+FC Fiorenza
+Real Montaigna CF
+Dynamo Trossenfeld
+Sporting Alta Marca
+AC Novarina
+Borussia Holtenstein
+CF Porto Radiante
+FC Bravorre
+Real Fioravella CF
+Dynamo Felsenhaim
+Sporting Costa Nova
+AC Rivoldo
+Borussia Talheim
+CF Azul Lúcido
+FC Verdeoro
+Real Marabella CF
+Dynamo Krügerthal
+Sporting Riva Alta
+AC Castanoro
+Borussia Dornhaus
+CF Mar do Norte
+FC Azurina
+Real Porto Alto CF
+Dynamo Westenthal
+Sporting Luminosa
+AC Viorella
+Borussia Brückenhof
+CF Porto Bello
+FC Lunaris
+Real Fiorente CF
+Dynamo Norsegarten
+Sporting Bela Vista
+AC Monteloro
+Borussia Kaiserwald
+CF Verde Marina
+FC Centrale Atlantique
+Real Bluemaris CF
+Dynamo Kurenhof
+Sporting Costa D’Amore
+AC Roselia
+Borussia Fernthal
+CF Bella Costa
+FC Solarena
+Real Fiorentina Rosa CF
+Dynamo Larenberg
+Sporting Alto Verde
+AC Portenza
+Borussia Talberg
+CF Verdorino
+FC Rosanova
+Real Fioramar CF
+Dynamo Krevenfeld
+Sporting Costa del Mare
+AC Montefioro
+Borussia Freilendorf
+CF Bravura del Sol
+FC Azure Coast
+Real Montavilla CF
+Dynamo Ostenfeld
+Sporting Verde Mar
+AC Bellorino
+Borussia Lindenhof
+CF Oriana
+FC Mare Luminosa
+Real Fiorenzia CF
+Dynamo Auersfeld
+Sporting Monte Blu
+AC Castorano
+Borussia Gravenstein
+CF Porto Verde
+FC Marabella
+Real Fioria CF
+Dynamo Klossenhof
+Sporting Alta Marea
+AC Venturio
+Borussia Altenwald
+CF Azur Azul
+FC Bellmare
+Real Fiorentina Verda CF
+Dynamo Heldenberg
+Sporting Monte Verde Azul
+Real Verde Rio CF
+Dynamo Travenwald
+Sporting Fiora Azul
+AC Montavella
+Borussia Engelstadt
+CF Sol de Marzo
+FC Verde Alta
+Real Fiorentino Blanco CF
+Dynamo Lorenshof
+Sporting Marlivio
+AC Luzenda
+Borussia Weltenstein
+CF Costa Bella
+FC Rivanella
+Real Fiorano CF
+Dynamo Berenhof
+Sporting Doralia
+AC Florenza
+Borussia Traunberg
+CF Azul Serena
+FC Castolina
+Real Montalvio CF
+Dynamo Ostendorf
+Sporting Riviera Azul
+AC Ventale
+Borussia Hardtenhof
+CF Porto Novo
+FC Verde del Sol
+Real Fiorella CF
+Dynamo Havenfeld
+Sporting Alta Costa
+AC Rosanova
+Borussia Hartenheim
+CF Mare Dorada
+FC Luminara
+Real Fiorenzo CF
+Dynamo Clausberg
+Sporting Riviera Norte
+AC Navencia
+Borussia Dornau
+CF Verde Marinho
+FC Bellastra
+Real Fioraluna CF
+Dynamo Krugenhof
+Sporting Costa Verde
+AC Primarosa
+Borussia Dellhofen
+CF Mare Azul
+FC Celestino
+Real Montavino CF
+Dynamo Ovrenfeld
+Sporting Verdania
+AC Fiorente
+Borussia Landersheim
+CF Riva d’Oro
+FC Monti Verde
+Real Fioravia CF
+Dynamo Neuenhof
+Sporting Alto Mare
+AC Rivelta
+Borussia Kostental
+CF Costa Serena
+FC Fiorenzia
+Real Paradiso CF
+Dynamo Kriefenhof
+Sporting Monte Celeste
+AC Valdino
+Borussia Starkenwald
+CF Bravura Azul
+FC Lucenza
+Real Mare Alta CF
+Dynamo Rödenberg
+Sporting Verde Lume
+AC Cielomar
+Borussia Drachenfeld
+CF Porto Azul Claro
+FC Fiorarella
+Real Bluesea CF
+Dynamo Löffelhof
+Sporting Montarina
+AC Bellonova
+Borussia Hirschthal
+CF Luminaria
+FC Marevento
+Real Fioranova CF
+Dynamo Norwenhof
+Sporting Verde Stella
+AC Costalina
+Borussia Brandhoff
+CF Oro del Mare
+FC Rosavento
+Real Castiluna CF
+Dynamo Trevenfeld
+Sporting Costa del Vento
+AC Fiorine
+Borussia Hohenwall
+CF Alta Bella
+FC Maraluna
+Real Fior Soleil CF
+Dynamo Keltenhof
+Sporting Bravura Azul
+AC Montevelio
+Borussia Kronwald
+CF Rivamar
+FC Verde Diamante
+Real Fiorésia CF
+Dynamo Dresenhof
+Sporting Costa Cielo
+AC Roselina
+Borussia Wolfenthal
+CF Azul de Oro
+FC Marevento Azul
+Real Fior Alto CF
+Dynamo Sternberg
+Sporting Verde Monte
+AC Lomarino
+Borussia Steinwalden
+CF Costa Serena Alta
+FC Lyonesse
+Real Fiorencia CF
+Dynamo Altenau
+Sporting Bravino del Sur
+AC Fiorinella
+Borussia Grünthal Nord
+CF Porto Verde Azul
+FC Rivamaris
+Real Fior D’Amore CF
+Dynamo Kaltenberg
+Sporting Costa Bella
+AC Azulina
+Borussia Seidenhof
+CF Mare Riviera
+FC Verde Viva
+Real Fiorenza Alta CF
+Dynamo Traubenfeld
+Sporting Rivazul
+AC Monte Rivaria
+Borussia Lerchenwald
+CF Costa Diamante
+FC Fioralba
+Real Fiorentina del Sol CF
+Dynamo Weisenhof
+Sporting Costa Mare
+AC Moncello
+Borussia Freyenthal
+CF Verde Rossa
+FC Rinalia
+Real Fiorial CF
+Dynamo Bromberg
+Sporting Mareverde
+AC Dravona
+Borussia Klostern
+CF Alta Fiora
+FC Bellamar
+Real Fior Cielo CF
+Dynamo Evershof
+Sporting Riva Serena
+AC Portamara
+Borussia Fahlenwald
+CF Verde Claro Azul
+FC Montebella
+Real Fiorate CF
+Dynamo Standenhof
+Sporting Alta Stella
+AC Rosarino
+Borussia Mainwald
+CF Costa Verde Norte
+FC Fioradino
+Real Fiorencia Azul CF
+Dynamo Hallerstadt
+Sporting Monte Sol
+AC Laverna
+Borussia Schauenfeld
+CF Bravura Lusitana
+FC Mare Alta
+Real Fioranova Bianca CF
+Dynamo Eastwald
+Sporting Verde Alto
+AC Castovino
+Borussia Neuenhofen
+CF Porto Bello Azul
+FC Rivabella
+Real Fior Azura CF
+Dynamo Krossenhof
+Sporting Bella Fiora
+AC Verdeano
+Borussia Thalfeld
+CF Alta Marinia
+FC Rosamira
+Real Fior Verde CF
+Dynamo Nordsen
+Sporting Mare Serena
+AC Celesta
+Borussia Erlenberg
+CF Verde Amora
+FC Fioramar Azul
+Real Fiorentino Costa CF
+Dynamo Walenhof
+Sporting Alta Fiora
+AC Montalvia
+Borussia Dornberg
+CF Costa Verde Azul
+FC Rivamor
+Real Fioranza CF
+Dynamo Hochfeld
+Sporting Mare Alto Verde
+AC Bluemora
+Borussia Altenried
+CF Verde Aurora
+FC Fiorenzica
+Real Fiorentina Dorada CF
+Dynamo Freudenberg
+Sporting Verde Azul
+AC Fiorino Mare
+Borussia Eisenwald Nord
+CF Costa Serena Lume
+FC Alta Verde
+Real Fioraluze CF
+Dynamo Unterberg
+Sporting Belle Verde
+AC Luminara
+Borussia Landenberg
+CF Sol Verde Mar
+FC Fiora Alta
